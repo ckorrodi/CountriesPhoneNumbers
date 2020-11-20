@@ -1,0 +1,1745 @@
+[
+    {
+        "countries_code": "AF",
+        "countries_name": "AFGHANISTAN",
+        "dial_code": "+93",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "AX",
+        "countries_name": "ÅLAND ISLANDS",
+        "dial_code": "+358",
+        "trunk_prefix": "null",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "AL",
+        "countries_name": "ALBANIA",
+        "dial_code": "+355",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "DZ",
+        "countries_name": "ALGERIA",
+        "dial_code": "+213",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "AS",
+        "countries_name": "AMERICAN SAMOA",
+        "dial_code": "+1684",
+        "trunk_prefix": "1",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "AD",
+        "countries_name": "ANDORRA",
+        "dial_code": "+376",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "AO",
+        "countries_name": "ANGOLA",
+        "dial_code": "+244",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "AI",
+        "countries_name": "ANGUILLA",
+        "dial_code": "+1264",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "AQ",
+        "countries_name": "ANTARCTICA",
+        "dial_code": "+672",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "AG",
+        "countries_name": "ANTIGUA AND BARBUDA",
+        "dial_code": "+1268",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "AR",
+        "countries_name": "ARGENTINA",
+        "dial_code": "+54",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "AM",
+        "countries_name": "ARMENIA",
+        "dial_code": "+374",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "AW",
+        "countries_name": "ARUBA",
+        "dial_code": "+297",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "AU",
+        "countries_name": "AUSTRALIA",
+        "dial_code": "+61",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "AT",
+        "countries_name": "AUSTRIA",
+        "dial_code": "+43",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "AZ",
+        "countries_name": "AZERBAIJAN",
+        "dial_code": "+994",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "BS",
+        "countries_name": "BAHAMAS",
+        "dial_code": "+1242",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "BH",
+        "countries_name": "BAHRAIN",
+        "dial_code": "+973",
+        "trunk_prefix": "null",
+        "local_length": "8",
+    },
+    {
+        "countries_code": "BD",
+        "countries_name": "BANGLADESH",
+        "dial_code": "+880",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "BB",
+        "countries_name": "BARBADOS",
+        "dial_code": "+1246",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "BY",
+        "countries_name": "BELARUS",
+        "dial_code": "+375",
+        "trunk_prefix": "8",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "BE",
+        "countries_name": "BELGIUM",
+        "dial_code": "+32",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "BZ",
+        "countries_name": "BELIZE",
+        "dial_code": "+501",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "BJ",
+        "countries_name": "BENIN",
+        "dial_code": "+229",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "BM",
+        "countries_name": "BERMUDA",
+        "dial_code": "+1441",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "BT",
+        "countries_name": "BHUTAN",
+        "dial_code": "+975",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "BO",
+        "countries_name": "BOLIVIA, PLURINATIONAL STATE OF",
+        "dial_code": "+591",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "BQ",
+        "countries_name": "BONAIRE, SINT EUSTATIUS AND SABA",
+        "dial_code": "+599",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "BA",
+        "countries_name": "BOSNIA AND HERZEGOVINA",
+        "dial_code": "+387",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "BW",
+        "countries_name": "BOTSWANA",
+        "dial_code": "+267",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "BV",
+        "countries_name": "BOUVET ISLAND",
+        "dial_code": "null",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "BR",
+        "countries_name": "BRAZIL",
+        "dial_code": "+55",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "IO",
+        "countries_name": "BRITISH INDIAN OCEAN TERRITORY",
+        "dial_code": "+246",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "BN",
+        "countries_name": "BRUNEI DARUSSALAM",
+        "dial_code": "+673",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "BG",
+        "countries_name": "BULGARIA",
+        "dial_code": "+359",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "BF",
+        "countries_name": "BURKINA FASO",
+        "dial_code": "+226",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "BI",
+        "countries_name": "BURUNDI",
+        "dial_code": "+257",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "KH",
+        "countries_name": "CAMBODIA",
+        "dial_code": "+855",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "CM",
+        "countries_name": "CAMEROON",
+        "dial_code": "+237",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "CA",
+        "countries_name": "CANADA",
+        "dial_code": "+1",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "CV",
+        "countries_name": "CAPE VERDE",
+        "dial_code": "+238",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "KY",
+        "countries_name": "CAYMAN ISLANDS",
+        "dial_code": "+1345",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "CF",
+        "countries_name": "CENTRAL AFRICAN REPUBLIC",
+        "dial_code": "+236",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "TD",
+        "countries_name": "CHAD",
+        "dial_code": "+235",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "CL",
+        "countries_name": "CHILE",
+        "dial_code": "+56",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "CN",
+        "countries_name": "CHINA",
+        "dial_code": "+86",
+        "trunk_prefix": "0",
+        "local_length": "12"
+    },
+    {
+        "countries_code": "CX",
+        "countries_name": "CHRISTMAS ISLAND",
+        "dial_code": "+61",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "CC",
+        "countries_name": "COCOS (KEELING) ISLANDS",
+        "dial_code": "+61",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "CO",
+        "countries_name": "COLOMBIA",
+        "dial_code": "+57",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "KM",
+        "countries_name": "COMOROS",
+        "dial_code": "+269",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "CG",
+        "countries_name": "CONGO",
+        "dial_code": "+242",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "CD",
+        "countries_name": "CONGO, THE DEMOCRATIC REPUBLIC OF THE",
+        "dial_code": "+243",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "CK",
+        "countries_name": "COOK ISLANDS",
+        "dial_code": "+682",
+        "trunk_prefix": "null",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "CR",
+        "countries_name": "COSTA RICA",
+        "dial_code": "+506",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "HR",
+        "countries_name": "CROATIA",
+        "dial_code": "+385",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "CU",
+        "countries_name": "CUBA",
+        "dial_code": "+53",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "CW",
+        "countries_name": "CURAÇAO",
+        "dial_code": "+599",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "CY",
+        "countries_name": "CYPRUS",
+        "dial_code": "+357",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "CZ",
+        "countries_name": "CZECH REPUBLIC",
+        "dial_code": "+420",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "DK",
+        "countries_name": "DENMARK",
+        "dial_code": "+45",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "DJ",
+        "countries_name": "DJIBOUTI",
+        "dial_code": "+253",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "DM",
+        "countries_name": "DOMINICA",
+        "dial_code": "+1767",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "DO",
+        "countries_name": "DOMINICAN REPUBLIC",
+        "dial_code": "+1849",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "EC",
+        "countries_name": "ECUADOR",
+        "dial_code": "+593",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "EG",
+        "countries_name": "EGYPT",
+        "dial_code": "+20",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "SV",
+        "countries_name": "EL SALVADOR",
+        "dial_code": "+503",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "GQ",
+        "countries_name": "EQUATORIAL GUINEA",
+        "dial_code": "+240",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "ER",
+        "countries_name": "ERITREA",
+        "dial_code": "+291",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "EE",
+        "countries_name": "ESTONIA",
+        "dial_code": "+372",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "ET",
+        "countries_name": "ETHIOPIA",
+        "dial_code": "+251",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "FK",
+        "countries_name": "FALKLAND ISLANDS (MALVINAS)",
+        "dial_code": "+500",
+        "trunk_prefix": "null",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "FO",
+        "countries_name": "FAROE ISLANDS",
+        "dial_code": "+298",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "FJ",
+        "countries_name": "FIJI",
+        "dial_code": "+679",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "FI",
+        "countries_name": "FINLAND",
+        "dial_code": "+358",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "FR",
+        "countries_name": "FRANCE",
+        "dial_code": "+33",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "GF",
+        "countries_name": "FRENCH GUIANA",
+        "dial_code": "+594",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "PF",
+        "countries_name": "FRENCH POLYNESIA",
+        "dial_code": "+689",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "TF",
+        "countries_name": "FRENCH SOUTHERN TERRITORIES",
+        "dial_code": "null",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "GA",
+        "countries_name": "GABON",
+        "dial_code": "+241",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "GM",
+        "countries_name": "GAMBIA",
+        "dial_code": "+220",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "GE",
+        "countries_name": "GEORGIA",
+        "dial_code": "+995",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "DE",
+        "countries_name": "GERMANY",
+        "dial_code": "+49",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "GH",
+        "countries_name": "GHANA",
+        "dial_code": "+233",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "GI",
+        "countries_name": "GIBRALTAR",
+        "dial_code": "+350",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "GR",
+        "countries_name": "GREECE",
+        "dial_code": "+30",
+        "trunk_prefix": "null",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "GL",
+        "countries_name": "GREENLAND",
+        "dial_code": "+299",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "GD",
+        "countries_name": "GRENADA",
+        "dial_code": "+1473",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "GP",
+        "countries_name": "GUADELOUPE",
+        "dial_code": "+590",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "GU",
+        "countries_name": "GUAM",
+        "dial_code": "+1671",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "GT",
+        "countries_name": "GUATEMALA",
+        "dial_code": "+502",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "GG",
+        "countries_name": "GUERNSEY",
+        "dial_code": "+44",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "GN",
+        "countries_name": "GUINEA",
+        "dial_code": "+224",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "GW",
+        "countries_name": "GUINEA-BISSAU",
+        "dial_code": "+245",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "GY",
+        "countries_name": "GUYANA",
+        "dial_code": "+592",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "HT",
+        "countries_name": "HAITI",
+        "dial_code": "+509",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "HM",
+        "countries_name": "HEARD ISLAND AND MCDONALD ISLANDS",
+        "dial_code": "null",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "VA",
+        "countries_name": "HOLY SEE (VATICAN CITY STATE)",
+        "dial_code": "+379",
+        "trunk_prefix": "null",
+        "local_length": "2"
+    },
+    {
+        "countries_code": "HN",
+        "countries_name": "HONDURAS",
+        "dial_code": "+504",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "HK",
+        "countries_name": "HONG KONG",
+        "dial_code": "+852",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "HU",
+        "countries_name": "HUNGARY",
+        "dial_code": "+36",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "IS",
+        "countries_name": "ICELAND",
+        "dial_code": "+354",
+        "trunk_prefix": "null",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "IN",
+        "countries_name": "INDIA",
+        "dial_code": "+91",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "ID",
+        "countries_name": "INDONESIA",
+        "dial_code": "+62",
+        "trunk_prefix": "0",
+        "local_length": "12"
+    },
+    {
+        "countries_code": "IR",
+        "countries_name": "IRAN, ISLAMIC REPUBLIC OF",
+        "dial_code": "+98",
+        "trunk_prefix": "0",
+        "local_length": "11",
+    },
+    {
+        "countries_code": "IQ",
+        "countries_name": "IRAQ",
+        "dial_code": "+964",
+        "trunk_prefix": "0",
+        "local_length": "8",
+    },
+    {
+        "countries_code": "IE",
+        "countries_name": "IRELAND",
+        "dial_code": "+353",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "IM",
+        "countries_name": "ISLE OF MAN",
+        "dial_code": "+44",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "IL",
+        "countries_name": "ISRAEL",
+        "dial_code": "+972",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "IT",
+        "countries_name": "ITALY",
+        "dial_code": "+39",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "JM",
+        "countries_name": "JAMAICA",
+        "dial_code": "+1876",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "JP",
+        "countries_name": "JAPAN",
+        "dial_code": "+81",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "JE",
+        "countries_name": "JERSEY",
+        "dial_code": "+44",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "JO",
+        "countries_name": "JORDAN",
+        "dial_code": "+962",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "KZ",
+        "countries_name": "KAZAKHSTAN",
+        "dial_code": "+7",
+        "trunk_prefix": "8",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "KE",
+        "countries_name": "KENYA",
+        "dial_code": "+254",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "KI",
+        "countries_name": "KIRIBATI",
+        "dial_code": "+686",
+        "trunk_prefix": "0",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "KR",
+        "countries_name": "SOUTH KOREA, REPUBLIC OF",
+        "dial_code": "+82",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "KW",
+        "countries_name": "KUWAIT",
+        "dial_code": "+965",
+        "trunk_prefix": "null",
+        "local_length": "7",
+    },
+    {
+        "countries_code": "KG",
+        "countries_name": "KYRGYZSTAN",
+        "dial_code": "+996",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "LV",
+        "countries_name": "LATVIA",
+        "dial_code": "+371",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "LB",
+        "countries_name": "LEBANON",
+        "dial_code": "+961",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "LS",
+        "countries_name": "LESOTHO",
+        "dial_code": "+266",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "LR",
+        "countries_name": "LIBERIA",
+        "dial_code": "+231",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "LY",
+        "countries_name": "LIBYA",
+        "dial_code": "+218",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "LI",
+        "countries_name": "LIECHTENSTEIN",
+        "dial_code": "+423",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "LT",
+        "countries_name": "LITHUANIA",
+        "dial_code": "+370",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "LU",
+        "countries_name": "LUXEMBOURG",
+        "dial_code": "+352",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "MO",
+        "countries_name": "MACAO",
+        "dial_code": "+853",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MK",
+        "countries_name": "MACEDONIA, THE FORMER YUGOSLAV REPUBLIC OF",
+        "dial_code": "+389",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MG",
+        "countries_name": "MADAGASCAR",
+        "dial_code": "+261",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "MW",
+        "countries_name": "MALAWI",
+        "dial_code": "+265",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "MY",
+        "countries_name": "MALAYSIA",
+        "dial_code": "+60",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "MV",
+        "countries_name": "MALDIVES",
+        "dial_code": "+960",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "ML",
+        "countries_name": "MALI",
+        "dial_code": "+223",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MT",
+        "countries_name": "MALTA",
+        "dial_code": "+356",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MH",
+        "countries_name": "MARSHALL ISLANDS",
+        "dial_code": "+692",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "MQ",
+        "countries_name": "MARTINIQUE",
+        "dial_code": "+596",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "MR",
+        "countries_name": "MAURITANIA",
+        "dial_code": "+222",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MU",
+        "countries_name": "MAURITIUS",
+        "dial_code": "+230",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "YT",
+        "countries_name": "MAYOTTE",
+        "dial_code": "+262",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "MX",
+        "countries_name": "MEXICO",
+        "dial_code": "+52",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "FM",
+        "countries_name": "MICRONESIA, FEDERATED STATES OF",
+        "dial_code": "+691",
+        "trunk_prefix": "1",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MD",
+        "countries_name": "MOLDOVA, REPUBLIC OF",
+        "dial_code": "+373",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "MC",
+        "countries_name": "MONACO",
+        "dial_code": "+377",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MN",
+        "countries_name": "MONGOLIA",
+        "dial_code": "+976",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "ME",
+        "countries_name": "MONTENEGRO",
+        "dial_code": "+382",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "MS",
+        "countries_name": "MONTSERRAT",
+        "dial_code": "+1664",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "MA",
+        "countries_name": "MOROCCO",
+        "dial_code": "+212",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "MZ",
+        "countries_name": "MOZAMBIQUE",
+        "dial_code": "+258",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "MM",
+        "countries_name": "MYANMAR",
+        "dial_code": "+95",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "NA",
+        "countries_name": "NAMIBIA",
+        "dial_code": "+264",
+        "trunk_prefix": "0",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "NR",
+        "countries_name": "NAURU",
+        "dial_code": "+674",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "NP",
+        "countries_name": "NEPAL",
+        "dial_code": "+977",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "NL",
+        "countries_name": "NETHERLANDS",
+        "dial_code": "+31",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "NC",
+        "countries_name": "NEW CALEDONIA",
+        "dial_code": "+687",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "NZ",
+        "countries_name": "NEW ZEALAND",
+        "dial_code": "+64",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "NI",
+        "countries_name": "NICARAGUA",
+        "dial_code": "+505",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "NE",
+        "countries_name": "NIGER",
+        "dial_code": "+227",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "NG",
+        "countries_name": "NIGERIA",
+        "dial_code": "+234",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "NU",
+        "countries_name": "NIUE",
+        "dial_code": "+683",
+        "trunk_prefix": "null",
+        "local_length": "4"
+    },
+    {
+        "countries_code": "NF",
+        "countries_name": "NORFOLK ISLAND",
+        "dial_code": "+672",
+        "trunk_prefix": "0",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "MP",
+        "countries_name": "NORTHERN MARIANA ISLANDS",
+        "dial_code": "+1670",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "NO",
+        "countries_name": "NORWAY",
+        "dial_code": "+47",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "OM",
+        "countries_name": "OMAN",
+        "dial_code": "+968",
+        "trunk_prefix": "null",
+        "local_length": "8",
+    },
+    {
+        "countries_code": "PK",
+        "countries_name": "PAKISTAN",
+        "dial_code": "+92",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "PW",
+        "countries_name": "PALAU",
+        "dial_code": "+680",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "PS",
+        "countries_name": "PALESTINE, STATE OF",
+        "dial_code": "+970",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "PA",
+        "countries_name": "PANAMA",
+        "dial_code": "+507",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "PG",
+        "countries_name": "PAPUA NEW GUINEA",
+        "dial_code": "+675",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "PY",
+        "countries_name": "PARAGUAY",
+        "dial_code": "+595",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "PE",
+        "countries_name": "PERU",
+        "dial_code": "+51",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "PH",
+        "countries_name": "PHILIPPINES",
+        "dial_code": "+63",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "PN",
+        "countries_name": "PITCAIRN",
+        "dial_code": "+870",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "PL",
+        "countries_name": "POLAND",
+        "dial_code": "+48",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "PT",
+        "countries_name": "PORTUGAL",
+        "dial_code": "+351",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "PR",
+        "countries_name": "PUERTO RICO",
+        "dial_code": "+1939",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "QA",
+        "countries_name": "QATAR",
+        "dial_code": "+974",
+        "trunk_prefix": "null",
+        "local_length": "8",
+    },
+    {
+        "countries_code": "RE",
+        "countries_name": "RÉUNION",
+        "dial_code": "+262",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "RO",
+        "countries_name": "ROMANIA",
+        "dial_code": "+40",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "RU",
+        "countries_name": "RUSSIAN FEDERATION",
+        "dial_code": "+7",
+        "trunk_prefix": "8",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "RW",
+        "countries_name": "RWANDA",
+        "dial_code": "+250",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "BL",
+        "countries_name": "SAINT BARTHÉLEMY",
+        "dial_code": "+590",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "SH",
+        "countries_name": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+        "dial_code": "+290",
+        "trunk_prefix": "null",
+        "local_length": "4"
+    },
+    {
+        "countries_code": "KN",
+        "countries_name": "SAINT KITTS AND NEVIS",
+        "dial_code": "+1869",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "LC",
+        "countries_name": "SAINT LUCIA",
+        "dial_code": "+1758",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "MF",
+        "countries_name": "SAINT MARTIN (FRENCH PART)",
+        "dial_code": "+1599",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "PM",
+        "countries_name": "SAINT PIERRE AND MIQUELON",
+        "dial_code": "+508",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "VC",
+        "countries_name": "SAINT VINCENT AND THE GRENADINES",
+        "dial_code": "+1784",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "WS",
+        "countries_name": "SAMOA",
+        "dial_code": "+685",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "SM",
+        "countries_name": "SAN MARINO",
+        "dial_code": "+378",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "ST",
+        "countries_name": "SAO TOME AND PRINCIPE",
+        "dial_code": "+239",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "SA",
+        "countries_name": "SAUDI ARABIA",
+        "dial_code": "+966",
+        "trunk_prefix": "0",
+        "local_length": "9",
+    },
+    {
+        "countries_code": "SN",
+        "countries_name": "SENEGAL",
+        "dial_code": "+221",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "RS",
+        "countries_name": "SERBIA",
+        "dial_code": "+381",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "SC",
+        "countries_name": "SEYCHELLES",
+        "dial_code": "+248",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "SL",
+        "countries_name": "SIERRA LEONE",
+        "dial_code": "+232",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "SG",
+        "countries_name": "SINGAPORE",
+        "dial_code": "+65",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "SX",
+        "countries_name": "SINT MAARTEN (DUTCH PART)",
+        "dial_code": "+1721",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "SK",
+        "countries_name": "SLOVAKIA",
+        "dial_code": "+421",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "SI",
+        "countries_name": "SLOVENIA",
+        "dial_code": "+386",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "SB",
+        "countries_name": "SOLOMON ISLANDS",
+        "dial_code": "+677",
+        "trunk_prefix": "null",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "SO",
+        "countries_name": "SOMALIA",
+        "dial_code": "+252",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "ZA",
+        "countries_name": "SOUTH AFRICA",
+        "dial_code": "+27",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "GS",
+        "countries_name": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+        "dial_code": "+500",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "SS",
+        "countries_name": "SOUTH SUDAN",
+        "dial_code": "+211",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "ES",
+        "countries_name": "SPAIN",
+        "dial_code": "+34",
+        "trunk_prefix": "null",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "LK",
+        "countries_name": "SRI LANKA",
+        "dial_code": "+94",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "SD",
+        "countries_name": "SUDAN",
+        "dial_code": "+249",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "SR",
+        "countries_name": "SURINAME",
+        "dial_code": "+597",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "SJ",
+        "countries_name": "SVALBARD AND JAN MAYEN",
+        "dial_code": "+4779",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "SZ",
+        "countries_name": "SWAZILAND",
+        "dial_code": "+268",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "SE",
+        "countries_name": "SWEDEN",
+        "dial_code": "+46",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "CH",
+        "countries_name": "SWITZERLAND",
+        "dial_code": "+41",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "SY",
+        "countries_name": "SYRIAN ARAB REPUBLIC",
+        "dial_code": "+963",
+        "trunk_prefix": "0",
+        "local_length": "9",
+    },
+    {
+        "countries_code": "TW",
+        "countries_name": "TAIWAN, PROVINCE OF CHINA",
+        "dial_code": "+886",
+        "trunk_prefix": "0",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "TJ",
+        "countries_name": "TAJIKISTAN",
+        "dial_code": "+992",
+        "trunk_prefix": "8",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "TZ",
+        "countries_name": "TANZANIA, UNITED REPUBLIC OF",
+        "dial_code": "+255",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "TH",
+        "countries_name": "THAILAND",
+        "dial_code": "+66",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "TL",
+        "countries_name": "TIMOR-LESTE",
+        "dial_code": "+670",
+        "trunk_prefix": "null",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "TG",
+        "countries_name": "TOGO",
+        "dial_code": "+228",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "TK",
+        "countries_name": "TOKELAU",
+        "dial_code": "+690",
+        "trunk_prefix": "null",
+        "local_length": "4"
+    },
+    {
+        "countries_code": "TO",
+        "countries_name": "TONGA",
+        "dial_code": "+676",
+        "trunk_prefix": "null",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "TT",
+        "countries_name": "TRINIDAD AND TOBAGO",
+        "dial_code": "+1868",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "TN",
+        "countries_name": "TUNISIA",
+        "dial_code": "+216",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "TR",
+        "countries_name": "TURKEY",
+        "dial_code": "+90",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "TM",
+        "countries_name": "TURKMENISTAN",
+        "dial_code": "+993",
+        "trunk_prefix": "8",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "TC",
+        "countries_name": "TURKS AND CAICOS ISLANDS",
+        "dial_code": "+1649",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "TV",
+        "countries_name": "TUVALU",
+        "dial_code": "+688",
+        "trunk_prefix": "null",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "UG",
+        "countries_name": "UGANDA",
+        "dial_code": "+256",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "UA",
+        "countries_name": "UKRAINE",
+        "dial_code": "+380",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "AE",
+        "countries_name": "UNITED ARAB EMIRATES",
+        "dial_code": "+971",
+        "trunk_prefix": "0",
+        "local_length": "9",
+    },
+    {
+        "countries_code": "GB",
+        "countries_name": "UNITED KINGDOM",
+        "dial_code": "+44",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "US",
+        "countries_name": "UNITED STATES",
+        "dial_code": "+1",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "UM",
+        "countries_name": "UNITED STATES MINOR OUTLYING ISLANDS",
+        "dial_code": "+1",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "UY",
+        "countries_name": "URUGUAY",
+        "dial_code": "+598",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "UZ",
+        "countries_name": "UZBEKISTAN",
+        "dial_code": "+998",
+        "trunk_prefix": "8",
+        "local_length": "10"
+    },
+    {
+        "countries_code": "VU",
+        "countries_name": "VANUATU",
+        "dial_code": "+678",
+        "trunk_prefix": "null",
+        "local_length": "5"
+    },
+    {
+        "countries_code": "VE",
+        "countries_name": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+        "dial_code": "+58",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "VN",
+        "countries_name": "VIET NAM",
+        "dial_code": "+84",
+        "trunk_prefix": "0",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "VG",
+        "countries_name": "VIRGIN ISLANDS, BRITISH",
+        "dial_code": "+1284",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "VI",
+        "countries_name": "VIRGIN ISLANDS, U.S.",
+        "dial_code": "+1340",
+        "trunk_prefix": "1",
+        "local_length": "11"
+    },
+    {
+        "countries_code": "WF",
+        "countries_name": "WALLIS AND FUTUNA",
+        "dial_code": "+681",
+        "trunk_prefix": "null",
+        "local_length": "6"
+    },
+    {
+        "countries_code": "EH",
+        "countries_name": "WESTERN SAHARA",
+        "dial_code": "+212",
+        "trunk_prefix": "null",
+        "local_length": "null"
+    },
+    {
+        "countries_code": "YE",
+        "countries_name": "YEMEN",
+        "dial_code": "+967",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "ZM",
+        "countries_name": "ZAMBIA",
+        "dial_code": "+260",
+        "trunk_prefix": "0",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "ZW",
+        "countries_name": "ZIMBABWE",
+        "country": "+263",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    },
+    {
+        "countries_code": "KP",
+        "countries_name": "NORTH KOREA",
+        "dial_code": "+850",
+        "trunk_prefix": "0",
+        "local_length": "7"
+    },
+    {
+        "countries_code": "CI",
+        "countries_name": "IVORY COAST",
+        "dial_code": "+225",
+        "trunk_prefix": "null",
+        "local_length": "8"
+    },
+    {
+        "countries_code": "LA",
+        "countries_name": "LAOS",
+        "dial_code": "+856",
+        "trunk_prefix": "0",
+        "local_length": "9"
+    }
+]
