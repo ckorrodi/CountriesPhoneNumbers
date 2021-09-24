@@ -123,7 +123,7 @@
         "country": "BAHRAIN",
         "country_code": "+973",
         "trunk_prefix": null,
-        "local_length": "8",
+        "local_length": "8"
     },
     {
         "country_iso": "BD",
@@ -725,14 +725,14 @@
         "country": "IRAN, ISLAMIC REPUBLIC OF",
         "country_code": "+98",
         "trunk_prefix": "0",
-        "local_length": "11",
+        "local_length": "11"
     },
     {
         "country_iso": "IQ",
         "country": "IRAQ",
         "country_code": "+964",
         "trunk_prefix": "0",
-        "local_length": "8",
+        "local_length": "8"
     },
     {
         "country_iso": "IE",
@@ -823,7 +823,7 @@
         "country": "KUWAIT",
         "country_code": "+965",
         "trunk_prefix": null,
-        "local_length": "7",
+        "local_length": "7"
     },
     {
         "country_iso": "KG",
@@ -1145,7 +1145,7 @@
         "country": "OMAN",
         "country_code": "+968",
         "trunk_prefix": null,
-        "local_length": "8",
+        "local_length": "8"
     },
     {
         "country_iso": "PK",
@@ -1236,7 +1236,7 @@
         "country": "QATAR",
         "country_code": "+974",
         "trunk_prefix": null,
-        "local_length": "8",
+        "local_length": "8"
     },
     {
         "country_iso": "RE",
@@ -1341,7 +1341,7 @@
         "country": "SAUDI ARABIA",
         "country_code": "+966",
         "trunk_prefix": "0",
-        "local_length": "9",
+        "local_length": "9"
     },
     {
         "country_iso": "SN",
@@ -1495,7 +1495,7 @@
         "country": "SYRIAN ARAB REPUBLIC",
         "country_code": "+963",
         "trunk_prefix": "0",
-        "local_length": "9",
+        "local_length": "9"
     },
     {
         "country_iso": "TW",
@@ -1614,7 +1614,7 @@
         "country": "UNITED ARAB EMIRATES",
         "country_code": "+971",
         "trunk_prefix": "0",
-        "local_length": "9",
+        "local_length": "9"
     },
     {
         "country_iso": "GB",
